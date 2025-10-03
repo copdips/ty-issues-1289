@@ -1,0 +1,7 @@
+[project]
+name = "ty-issues-1289"
+version = "0.1.0"
+dependencies = [
+    "ty",
+    "typing-extensions",
+]
